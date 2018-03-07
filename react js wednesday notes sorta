@@ -1,0 +1,21 @@
+body
+  form id = "submit"
+    input required /
+    button>click here <
+  form
+
+  script
+    let btn = document.getElementById('submit' btn add event list... (e)...)
+
+    life cycle hooks (like render) are functions that are not called
+
+state is an object and has key value pairs
+
+    class App extends Component {
+    constructor(props) {
+    super(props)
+    this.state = { value: 0 }
+
+    }
+    }
+new words
